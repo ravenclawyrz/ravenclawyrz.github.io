@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravenclawyrz.github.io</id>
     <title>yrz的温馨小屋~</title>
-    <updated>2020-02-25T13:43:31.064Z</updated>
+    <updated>2020-02-25T13:49:15.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ravenclawyrz.github.io"/>
     <link rel="self" href="https://ravenclawyrz.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://ravenclawyrz.github.io/images/avatar.png</logo>
     <icon>https://ravenclawyrz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yrz的温馨小屋~</rights>
+    <entry>
+        <title type="html"><![CDATA[欢迎光临！]]></title>
+        <id>https://ravenclawyrz.github.io/post/welcome/</id>
+        <link href="https://ravenclawyrz.github.io/post/welcome/">
+        </link>
+        <updated>2020-02-25T13:44:40.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的温馨小屋，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>这里是yrz的小屋QAQ~<br>
+欢迎各位亲爱的小伙伴们前来做客！</p>
+<h2 id="主人是谁">👨‍💻 主人是谁</h2>
+<p>真实姓名：？？？（叫我yrz就好惹）<br>
+性染色体组成：XY<br>
+学校：霍格沃茨魔法学校（我是拉文克劳的）<br>
+年级：初四（O.W.Ls考试加油）~<br>
+其它：没了，真没了www</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>爱编程、爱生物、爱幻想......</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p><a href="https://www.luogu.com.cn/user/239405">这估计是能联系到我的唯一方式了</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ravenclawyrz.github.io/post/hello-gridea/</id>
